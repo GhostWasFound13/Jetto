@@ -1,6 +1,7 @@
 {
   "name": "GhostCoin",
   "symbol": "GHOST",
-  "description": "GhostCoin Jetton",
-  "decimals": "9"
+  "description": "A community-driven digital token built on the TON blockchain. Welcome to the GhostCoin ecosystem.",
+  "decimals": "9",
+  "image": "https://raw.githubusercontent.com/GhostWasFound13/Jetto/main/file_00000000f96482118f0babd53c5045dd.png"
 }
